@@ -1,0 +1,11 @@
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\Test_Api.deps.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\Test_Api.runtimeconfig.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\Test_Api.runtimeconfig.dev.json
+D:\projects\C# programs\Test_Api\bin\Debug\netcoreapp2.1\Test_Api.dll
+D:\projects\C# programs\Test_Api\obj\Debug\netcoreapp2.1\Test_Api.csprojAssemblyReference.cache
+D:\projects\C# programs\Test_Api\obj\Debug\netcoreapp2.1\Test_Api.AssemblyInfoInputs.cache
+D:\projects\C# programs\Test_Api\obj\Debug\netcoreapp2.1\Test_Api.AssemblyInfo.cs
+D:\projects\C# programs\Test_Api\obj\Debug\netcoreapp2.1\Test_Api.genruntimeconfig.cache
